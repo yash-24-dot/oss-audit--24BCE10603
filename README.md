@@ -23,11 +23,11 @@ This repository is the practical submission for the Open Source Software Audit a
 ```
 oss-audit-24BCE10603/
 ├── README.md
-├── script1_system_identity.sh
-├── script2_package_inspector.sh
-├── script3_disk_auditor.sh
-├── script4_log_analyzer.sh
-└── script5_manifesto_generator.sh
+├── 1.sh
+├── 2.sh
+├── 3.sh
+├── 4.sh
+└── 5.sh
 ```
 
 ---
