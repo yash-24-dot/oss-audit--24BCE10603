@@ -88,7 +88,7 @@ Prompts the user with three interactive questions about their relationship to op
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/yash-24-dot/oss-audit-[ROLLNUMBER].git
+git clone https://github.com/yash-24-dot/oss-audit-24BCE10603.git
 cd oss-audit-24BCE10603
 ```
 
