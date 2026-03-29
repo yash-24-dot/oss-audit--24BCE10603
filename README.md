@@ -28,7 +28,7 @@ oss-audit-24BCE10603/
 ├── 4.sh
 ├── 5.sh
 ├── README.md
-└──file_24BCE10603_oss_capstone_project
+└──os_capstone_project(24BCE10603)
 ```
 
 ---
